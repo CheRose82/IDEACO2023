@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerScript : MonoBehaviour
+public class PlayerScriptTyron2 : MonoBehaviour
 {
     public int health;
     // Start is called before the first frame update

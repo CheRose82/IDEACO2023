@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerScript : MonoBehaviour
+public class PlayerScriptDejhon2 : MonoBehaviour
 {
     public int Health;
     // Start is called before the first frame update
